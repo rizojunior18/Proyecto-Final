@@ -1,0 +1,333 @@
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\bin\Debug\GUI_V_2.exe.config
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\bin\Debug\GUI_V_2.exe
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\bin\Debug\GUI_V_2.pdb
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.csprojResolveAssemblyReference.cache
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.Form1.resources
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.Properties.Resources.resources
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.csproj.GenerateResource.Cache
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.exe
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.pdb
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.Productos.resources
+E:\TUT\PROYECTOS\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.InicioResumen.resources
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\bin\Debug\GUI_V_2.exe.config
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.exe
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.pdb
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\bin\Debug\GUI_V_2.exe
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\bin\Debug\GUI_V_2.pdb
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.csprojResolveAssemblyReference.cache
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.Form1.resources
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.InicioResumen.resources
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.Productos.resources
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.Properties.Resources.resources
+C:\Users\RonetJohn\Documents\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.csproj.GenerateResource.Cache
+C:\Users\RonetJhon\Downloads\proyectoGUI_V2\proyectoGUI_V2\GUI_V_2\GUI_V_2\bin\Debug\GUI_V_2.exe.config
+C:\Users\RonetJhon\Downloads\proyectoGUI_V2\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.exe
+C:\Users\RonetJhon\Downloads\proyectoGUI_V2\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.pdb
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\bin\Debug\GUI_V_2.exe.config
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.exe
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.pdb
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\bin\Debug\GUI_V_2.exe
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\bin\Debug\GUI_V_2.pdb
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.Form1.resources
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.InicioResumen.resources
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.Productos.resources
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.Properties.Resources.resources
+D:\RJ Code Advance\Source Code C#\2018\GUI_MODERNISTA VD02\proyectoGUI_V2\GUI_V_2\GUI_V_2\obj\Debug\GUI_V_2.csproj.GenerateResource.Cache
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\GUI_V_2.exe.config
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\GUI_V_2.exe
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\GUI_V_2.pdb
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.csproj.AssemblyReference.cache
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.Form1.resources
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.InicioResumen.resources
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.Productos.resources
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.Properties.Resources.resources
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.csproj.GenerateResource.cache
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.csproj.CoreCompileInputs.cache
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.exe
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.pdb
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\LiteDB.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\LiteDB.xml
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.csproj.CopyComplete
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.Vista.FormBalanceGeneral.resources
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\EnvDTE.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\stdole.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.Vista.Empresa.resources
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\SpreadsheetLight.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\System.Drawing.Common.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\System.IO.Packaging.dll
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\bin\Debug\System.IO.Packaging.xml
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.Vista.EstadoResultado.resources
+C:\Users\agsch\OneDrive\Documentos\Material\Proyectos cortos\ModernFlat-GUI-Version-Base-C-Sharp-master\GUI_V_2\obj\Debug\GUI_V_2.Vista.login.resources
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\GUI_V_2.exe.config
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\GUI_V_2.exe
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\GUI_V_2.pdb
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\LiteDB.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\SpreadsheetLight.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\System.Drawing.Common.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\System.IO.Packaging.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\EnvDTE.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\stdole.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\LiteDB.xml
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\System.IO.Packaging.xml
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.csproj.AssemblyReference.cache
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Vista.Empresa.resources
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Vista.EstadoResultado.resources
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Form1.resources
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Vista.FormBalanceGeneral.resources
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.InicioResumen.resources
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Vista.login.resources
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Productos.resources
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Properties.Resources.resources
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.csproj.GenerateResource.cache
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.csproj.CoreCompileInputs.cache
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.csproj.CopyComplete
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.exe
+C:\Users\rizoj\Downloads\SistemaContable\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.pdb
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\GUI_V_2.exe.config
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\GUI_V_2.exe
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\GUI_V_2.pdb
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\EntityFramework.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\LiteDB.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\SpreadsheetLight.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\System.Drawing.Common.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\System.IO.Packaging.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\EnvDTE.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\stdole.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\EntityFramework.xml
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\LiteDB.xml
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\System.IO.Packaging.xml
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.csproj.AssemblyReference.cache
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Vista.Empresa.resources
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Vista.EstadoResultado.resources
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Form1.resources
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Vista.FormBalanceGeneral.resources
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.InicioResumen.resources
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Vista.login.resources
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Productos.resources
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Properties.Resources.resources
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.csproj.GenerateResource.cache
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.csproj.CoreCompileInputs.cache
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.csproj.CopyComplete
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.exe
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.pdb
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Vista.FormProducto.resources
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\GUI_V_2.exe.config
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\GUI_V_2.exe
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\GUI_V_2.pdb
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\LiteDB.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\SpreadsheetLight.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\System.IO.Packaging.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\stdole.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\LiteDB.xml
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\System.IO.Packaging.xml
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Vista.Empresa.resources
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Vista.EstadoResultado.resources
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Form1.resources
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Vista.FormBalanceGeneral.resources
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Vista.FormProducto.resources
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.InicioResumen.resources
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Vista.login.resources
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Productos.resources
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Properties.Resources.resources
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.csproj.CopyComplete
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.exe
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.pdb
+C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Vista.FormEmpleados.resources
