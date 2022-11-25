@@ -44,6 +44,7 @@
             this.iconcerrar = new System.Windows.Forms.PictureBox();
             this.btnMenu = new System.Windows.Forms.PictureBox();
             this.panelContenedor = new System.Windows.Forms.Panel();
+            this.btnProducto = new System.Windows.Forms.Button();
             this.MenuVertical.SuspendLayout();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -58,6 +59,7 @@
             // MenuVertical
             // 
             this.MenuVertical.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.MenuVertical.Controls.Add(this.btnProducto);
             this.MenuVertical.Controls.Add(this.panel1);
             this.MenuVertical.Controls.Add(this.pictureBox2);
             this.MenuVertical.Controls.Add(this.btnCerrarSesion);
@@ -66,7 +68,7 @@
             this.MenuVertical.Controls.Add(this.btnprod);
             this.MenuVertical.Dock = System.Windows.Forms.DockStyle.Left;
             this.MenuVertical.Location = new System.Drawing.Point(0, 0);
-            this.MenuVertical.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.MenuVertical.Margin = new System.Windows.Forms.Padding(4);
             this.MenuVertical.Name = "MenuVertical";
             this.MenuVertical.Size = new System.Drawing.Size(333, 800);
             this.MenuVertical.TabIndex = 0;
@@ -78,7 +80,7 @@
             this.panel1.Controls.Add(this.label1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(333, 105);
             this.panel1.TabIndex = 18;
@@ -102,7 +104,7 @@
             this.pictureBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
             this.pictureBox2.Location = new System.Drawing.Point(1, 714);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(93, 81);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -119,7 +121,7 @@
             this.btnCerrarSesion.Image = ((System.Drawing.Image)(resources.GetObject("btnCerrarSesion.Image")));
             this.btnCerrarSesion.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnCerrarSesion.Location = new System.Drawing.Point(0, 338);
-            this.btnCerrarSesion.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnCerrarSesion.Margin = new System.Windows.Forms.Padding(4);
             this.btnCerrarSesion.Name = "btnCerrarSesion";
             this.btnCerrarSesion.Size = new System.Drawing.Size(333, 49);
             this.btnCerrarSesion.TabIndex = 4;
@@ -137,7 +139,7 @@
             this.btnER.Image = ((System.Drawing.Image)(resources.GetObject("btnER.Image")));
             this.btnER.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnER.Location = new System.Drawing.Point(0, 282);
-            this.btnER.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnER.Margin = new System.Windows.Forms.Padding(4);
             this.btnER.Name = "btnER";
             this.btnER.Size = new System.Drawing.Size(333, 49);
             this.btnER.TabIndex = 3;
@@ -155,7 +157,7 @@
             this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
             this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button2.Location = new System.Drawing.Point(0, 225);
-            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button2.Margin = new System.Windows.Forms.Padding(4);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(333, 49);
             this.button2.TabIndex = 2;
@@ -173,7 +175,7 @@
             this.btnprod.Image = ((System.Drawing.Image)(resources.GetObject("btnprod.Image")));
             this.btnprod.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnprod.Location = new System.Drawing.Point(0, 169);
-            this.btnprod.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnprod.Margin = new System.Windows.Forms.Padding(4);
             this.btnprod.Name = "btnprod";
             this.btnprod.Size = new System.Drawing.Size(333, 49);
             this.btnprod.TabIndex = 1;
@@ -191,7 +193,7 @@
             this.BarraTitulo.Controls.Add(this.btnMenu);
             this.BarraTitulo.Dock = System.Windows.Forms.DockStyle.Top;
             this.BarraTitulo.Location = new System.Drawing.Point(333, 0);
-            this.BarraTitulo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.BarraTitulo.Margin = new System.Windows.Forms.Padding(4);
             this.BarraTitulo.Name = "BarraTitulo";
             this.BarraTitulo.Size = new System.Drawing.Size(1400, 55);
             this.BarraTitulo.TabIndex = 1;
@@ -203,7 +205,7 @@
             this.iconminimizar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.iconminimizar.Image = ((System.Drawing.Image)(resources.GetObject("iconminimizar.Image")));
             this.iconminimizar.Location = new System.Drawing.Point(1292, 6);
-            this.iconminimizar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.iconminimizar.Margin = new System.Windows.Forms.Padding(4);
             this.iconminimizar.Name = "iconminimizar";
             this.iconminimizar.Size = new System.Drawing.Size(24, 22);
             this.iconminimizar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -217,7 +219,7 @@
             this.iconrestaurar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.iconrestaurar.Image = ((System.Drawing.Image)(resources.GetObject("iconrestaurar.Image")));
             this.iconrestaurar.Location = new System.Drawing.Point(1327, 6);
-            this.iconrestaurar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.iconrestaurar.Margin = new System.Windows.Forms.Padding(4);
             this.iconrestaurar.Name = "iconrestaurar";
             this.iconrestaurar.Size = new System.Drawing.Size(24, 22);
             this.iconrestaurar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -232,7 +234,7 @@
             this.iconmaximizar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.iconmaximizar.Image = ((System.Drawing.Image)(resources.GetObject("iconmaximizar.Image")));
             this.iconmaximizar.Location = new System.Drawing.Point(1327, 6);
-            this.iconmaximizar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.iconmaximizar.Margin = new System.Windows.Forms.Padding(4);
             this.iconmaximizar.Name = "iconmaximizar";
             this.iconmaximizar.Size = new System.Drawing.Size(24, 22);
             this.iconmaximizar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -246,7 +248,7 @@
             this.iconcerrar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.iconcerrar.Image = ((System.Drawing.Image)(resources.GetObject("iconcerrar.Image")));
             this.iconcerrar.Location = new System.Drawing.Point(1361, 6);
-            this.iconcerrar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.iconcerrar.Margin = new System.Windows.Forms.Padding(4);
             this.iconcerrar.Name = "iconcerrar";
             this.iconcerrar.Size = new System.Drawing.Size(24, 22);
             this.iconcerrar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -259,7 +261,7 @@
             this.btnMenu.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnMenu.Image = ((System.Drawing.Image)(resources.GetObject("btnMenu.Image")));
             this.btnMenu.Location = new System.Drawing.Point(11, 7);
-            this.btnMenu.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnMenu.Margin = new System.Windows.Forms.Padding(4);
             this.btnMenu.Name = "btnMenu";
             this.btnMenu.Size = new System.Drawing.Size(47, 43);
             this.btnMenu.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -272,10 +274,28 @@
             this.panelContenedor.BackColor = System.Drawing.Color.WhiteSmoke;
             this.panelContenedor.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelContenedor.Location = new System.Drawing.Point(333, 55);
-            this.panelContenedor.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelContenedor.Margin = new System.Windows.Forms.Padding(4);
             this.panelContenedor.Name = "panelContenedor";
             this.panelContenedor.Size = new System.Drawing.Size(1400, 745);
             this.panelContenedor.TabIndex = 2;
+            // 
+            // btnProducto
+            // 
+            this.btnProducto.FlatAppearance.BorderSize = 0;
+            this.btnProducto.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnProducto.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnProducto.Font = new System.Drawing.Font("Century Gothic", 10.12727F);
+            this.btnProducto.ForeColor = System.Drawing.Color.White;
+            this.btnProducto.Image = ((System.Drawing.Image)(resources.GetObject("btnProducto.Image")));
+            this.btnProducto.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnProducto.Location = new System.Drawing.Point(4, 395);
+            this.btnProducto.Margin = new System.Windows.Forms.Padding(4);
+            this.btnProducto.Name = "btnProducto";
+            this.btnProducto.Size = new System.Drawing.Size(333, 49);
+            this.btnProducto.TabIndex = 4;
+            this.btnProducto.Text = "Productos";
+            this.btnProducto.UseVisualStyleBackColor = true;
+            this.btnProducto.Click += new System.EventHandler(this.btnProducto_Click);
             // 
             // Form1
             // 
@@ -287,7 +307,7 @@
             this.Controls.Add(this.MenuVertical);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.ShowIcon = false;
             this.Text = "Form1";
@@ -323,6 +343,7 @@
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button btnProducto;
     }
 }
 

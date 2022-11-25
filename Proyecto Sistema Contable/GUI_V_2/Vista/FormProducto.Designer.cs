@@ -68,6 +68,7 @@
             this.btnGuardar.TabIndex = 1;
             this.btnGuardar.Text = "Guardar";
             this.btnGuardar.UseVisualStyleBackColor = true;
+            this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
             // 
             // btnNuevo
             // 
@@ -81,7 +82,7 @@
             // 
             // txtNombreProducto
             // 
-            this.txtNombreProducto.Location = new System.Drawing.Point(199, 298);
+            this.txtNombreProducto.Location = new System.Drawing.Point(210, 298);
             this.txtNombreProducto.Name = "txtNombreProducto";
             this.txtNombreProducto.Size = new System.Drawing.Size(184, 22);
             this.txtNombreProducto.TabIndex = 3;
@@ -91,7 +92,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 11F);
             this.label1.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label1.Location = new System.Drawing.Point(19, 297);
+            this.label1.Location = new System.Drawing.Point(30, 298);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(174, 22);
             this.label1.TabIndex = 9;
@@ -102,7 +103,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Century Gothic", 11F);
             this.label2.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label2.Location = new System.Drawing.Point(77, 336);
+            this.label2.Location = new System.Drawing.Point(88, 338);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(116, 22);
             this.label2.TabIndex = 11;
@@ -110,7 +111,7 @@
             // 
             // txtDescripcion
             // 
-            this.txtDescripcion.Location = new System.Drawing.Point(199, 337);
+            this.txtDescripcion.Location = new System.Drawing.Point(210, 338);
             this.txtDescripcion.Multiline = true;
             this.txtDescripcion.Name = "txtDescripcion";
             this.txtDescripcion.Size = new System.Drawing.Size(184, 22);
@@ -121,7 +122,7 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Century Gothic", 11F);
             this.label3.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label3.Location = new System.Drawing.Point(449, 378);
+            this.label3.Location = new System.Drawing.Point(460, 379);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(71, 22);
             this.label3.TabIndex = 13;
@@ -129,7 +130,7 @@
             // 
             // txtCantidadDisponible
             // 
-            this.txtCantidadDisponible.Location = new System.Drawing.Point(199, 377);
+            this.txtCantidadDisponible.Location = new System.Drawing.Point(210, 379);
             this.txtCantidadDisponible.Name = "txtCantidadDisponible";
             this.txtCantidadDisponible.Size = new System.Drawing.Size(184, 22);
             this.txtCantidadDisponible.TabIndex = 12;
@@ -139,7 +140,7 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Century Gothic", 11F);
             this.label4.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label4.Location = new System.Drawing.Point(454, 335);
+            this.label4.Location = new System.Drawing.Point(465, 336);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(66, 22);
             this.label4.TabIndex = 15;
@@ -147,7 +148,7 @@
             // 
             // txtPrecio
             // 
-            this.txtPrecio.Location = new System.Drawing.Point(526, 338);
+            this.txtPrecio.Location = new System.Drawing.Point(537, 339);
             this.txtPrecio.Name = "txtPrecio";
             this.txtPrecio.Size = new System.Drawing.Size(184, 22);
             this.txtPrecio.TabIndex = 14;
@@ -157,7 +158,7 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Century Gothic", 11F);
             this.label5.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label5.Location = new System.Drawing.Point(411, 299);
+            this.label5.Location = new System.Drawing.Point(422, 299);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(109, 22);
             this.label5.TabIndex = 17;
@@ -165,7 +166,7 @@
             // 
             // txtCategoria
             // 
-            this.txtCategoria.Location = new System.Drawing.Point(526, 298);
+            this.txtCategoria.Location = new System.Drawing.Point(537, 299);
             this.txtCategoria.Name = "txtCategoria";
             this.txtCategoria.Size = new System.Drawing.Size(184, 22);
             this.txtCategoria.TabIndex = 16;
@@ -175,7 +176,7 @@
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Century Gothic", 11F);
             this.label6.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label6.Location = new System.Drawing.Point(-3, 378);
+            this.label6.Location = new System.Drawing.Point(8, 379);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(196, 22);
             this.label6.TabIndex = 19;
@@ -183,7 +184,7 @@
             // 
             // txtMarca
             // 
-            this.txtMarca.Location = new System.Drawing.Point(526, 377);
+            this.txtMarca.Location = new System.Drawing.Point(537, 378);
             this.txtMarca.Name = "txtMarca";
             this.txtMarca.Size = new System.Drawing.Size(184, 22);
             this.txtMarca.TabIndex = 18;
@@ -221,7 +222,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(53)))), ((int)(((byte)(73)))));
-            this.ClientSize = new System.Drawing.Size(942, 513);
+            this.ClientSize = new System.Drawing.Size(960, 520);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.btnActualizar);

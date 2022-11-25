@@ -260,3 +260,4 @@ C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\De
 C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.csproj.CopyComplete
 C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.exe
 C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.pdb
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Vista.FormProducto.resources

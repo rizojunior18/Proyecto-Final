@@ -118,5 +118,10 @@ namespace GUI_V_2
         {
 
         }
+
+        private void btnProducto_Click(object sender, EventArgs e)
+        {
+            AbrirFormEnPanel(new FormProducto());
+        }
     }
 }
