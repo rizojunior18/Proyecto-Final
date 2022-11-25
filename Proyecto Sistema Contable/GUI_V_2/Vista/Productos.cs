@@ -28,6 +28,7 @@ namespace GUI_V_2
             //llenarCombobox();
             lstCuenta = repoCuenta.llenarCuentas();
             cmbCuentas.DataSource = lstCuenta;
+            dgvCuentas.DataSource = objRepos.Read;
         }
 
         private void btnCerrar_Click(object sender, EventArgs e)

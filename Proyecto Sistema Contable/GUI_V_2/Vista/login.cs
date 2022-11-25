@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GUI_V_2.Controlador;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -29,15 +30,31 @@ namespace GUI_V_2.Vista
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(txtContra.Text=="password" && txtUsuario.Text == "user") {
-                MessageBox.Show("Bienvenido, " + txtUsuario.Text, "Bienvenido", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                Form1 form1= new Form1();
-                this.Hide();
-                form1.ShowDialog();
-                this.Close();
-                return;
+            string username = this.txtUsuario.Text;
+            string password = this.txtContra.Text;
+
+            if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
+            {
+                MessageBox.Show("Ingrese un usuario y contraseña", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
-            MessageBox.Show("Credenciales incorrectas","Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            else
+            {
+                bool isValid = CUsuario.IsValidUser(username, password);
+
+                if (isValid)
+                {
+                    MessageBox.Show("Bienvenido, " + username, "Bienvenido", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    Form1 form1 = new Form1();
+                    form1.ShowDialog();
+                    this.Close();
+
+                    return;
+                }
+                else
+                {
+                    MessageBox.Show("Nombre de usuario/Contraseña es incorrecta", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                }
+            }
         }
     }
 }
