@@ -176,6 +176,7 @@
             this.btnNuevoUsuario.TabIndex = 43;
             this.btnNuevoUsuario.Text = "Nuevo";
             this.btnNuevoUsuario.UseVisualStyleBackColor = true;
+            this.btnNuevoUsuario.Click += new System.EventHandler(this.btnNuevoUsuario_Click);
             // 
             // btnGuardarUsuario
             // 

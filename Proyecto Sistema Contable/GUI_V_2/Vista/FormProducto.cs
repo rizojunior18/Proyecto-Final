@@ -21,9 +21,9 @@ namespace GUI_V_2.Vista
         private void FormProducto_Load(object sender, EventArgs e)
         {
             MostrarProductos();
-            HabilitarTextbox(false);
-            this.btnGuardar.Enabled = false;
-            this.btnActualizar.Enabled = false;
+            HabilitarTextbox(true);
+            //this.btnGuardar.Enabled = false;
+            //this.btnActualizar.Enabled = false;
         }
 
         private void textBox3_TextChanged(object sender, EventArgs e)
@@ -115,6 +115,11 @@ namespace GUI_V_2.Vista
 
 
             }
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

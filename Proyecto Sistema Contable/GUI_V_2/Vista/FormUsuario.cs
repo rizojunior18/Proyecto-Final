@@ -62,7 +62,7 @@ namespace GUI_V_2.Vista
         {
             MostrarUsuarios();
             HabilitarTextbox(true);
-            this.btnNuevoUsuario.Enabled = false;
+            //this.btnNuevoUsuario.Enabled = true;
         }
 
         public void LimpiarTextbox()
@@ -99,7 +99,7 @@ namespace GUI_V_2.Vista
 
                 this.HabilitarTextbox(false);
                 this.LimpiarTextbox();
-                this.btnNuevoUsuario.Enabled = false;
+                this.btnNuevoUsuario.Enabled = true;
                 this.btnGuardarUsuario.Enabled = true;
                 this.btnActualizarUsuario.Enabled = false;
                 this.btnEliminarUsuario.Enabled = false;
@@ -155,6 +155,11 @@ namespace GUI_V_2.Vista
             MessageBox.Show("El usuario se ha eliminado exitosamente");
 
             MostrarUsuarios();
+
+        }
+
+        private void btnNuevoUsuario_Click(object sender, EventArgs e)
+        {
 
         }
     }
