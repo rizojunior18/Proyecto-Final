@@ -42,6 +42,100 @@ namespace GUI_V_2.Vista
         private void FormUsuario_Load(object sender, EventArgs e)
         {
             MostrarUsuarios();
+            HabilitarTextbox(true);
+        }
+
+        public void LimpiarTextbox()
+        {
+            this.txtNombreUsuario.Text = String.Empty;
+            this.txtContrasena.Text = String.Empty;
+            this.txtTipoPermiso.Text = String.Empty;
+            this.txtRolUsuario.Text = String.Empty;
+            this.txtIdEmpleado.Text = String.Empty;
+            this.txtBusquedaUsuario.Text = String.Empty;
+
+
+
+            // this.txtEstado.Text = String.Empty;
+            this.DataUsuarios.ClearSelection();
+        }
+        public void HabilitarTextbox(bool dato)
+        {
+            this.txtNombreUsuario.Enabled = dato;
+            this.txtContrasena.Enabled = dato;
+            this.txtTipoPermiso.Enabled = dato;
+            this.txtRolUsuario.Enabled = dato;
+            this.txtIdEmpleado.Enabled = dato;
+            this.txtBusquedaUsuario.Enabled = dato;
+
+
+            // this.txtEstado.Text = String.Empty;
+
+        }
+        public void ControlBotones(string dato)
+        {
+            if (dato == "Nuevo")
+            {
+
+                this.HabilitarTextbox(true);
+                this.LimpiarTextbox();
+                this.btnNuevoUsuario.Enabled = true;
+                this.btnGuardarUsuario.Enabled = true;
+                this.btnActualizarUsuario.Enabled = false;
+                this.btnEliminarUsuario.Enabled = false;
+
+
+            }
+            else
+            if (dato == "Guardar")
+            {
+
+                this.HabilitarTextbox(true);
+                this.btnNuevoUsuario.Enabled = true;
+                this.btnGuardarUsuario.Enabled = true;
+                this.btnActualizarUsuario.Enabled = false;
+                this.btnEliminarUsuario.Enabled = false;
+
+
+            }
+
+            else
+            if (dato == "Actualizar")
+            {
+
+                this.HabilitarTextbox(true);
+                this.btnNuevoUsuario.Enabled = true;
+                this.btnGuardarUsuario.Enabled = true;
+                this.btnActualizarUsuario.Enabled = false;
+                this.btnEliminarUsuario.Enabled = false;
+
+            }
+            else
+            if (dato == "Eliminar")
+            {
+
+                this.HabilitarTextbox(true);
+                this.btnNuevoUsuario.Enabled = true;
+                this.btnGuardarUsuario.Enabled = true;
+                this.btnActualizarUsuario.Enabled = false;
+                this.btnEliminarUsuario.Enabled = false;
+
+
+            }
+
+
+        }
+
+        private void btnEliminarUsuario_Click(object sender, EventArgs e)
+        {
+            string userName = this.txtNombreUsuario.Text;
+
+            CUsuario.EliminarUsuario(userName);
+
+            MessageBox.Show("El usuario se ha eliminado exitosamente");
+
+            MostrarUsuarios();
+
         }
     }
 }

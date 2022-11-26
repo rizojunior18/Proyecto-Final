@@ -1,5 +1,7 @@
-﻿using System;
+﻿using DocumentFormat.OpenXml.InkML;
+using System;
 using System.Collections.Generic;
+using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -50,6 +52,22 @@ namespace GUI_V_2.Modelo
                                 PrimerApellido = p.PrimerApellido
                             });
             return consulta.ToList();
+        }
+
+        public static void EliminarUsuario(string userName)
+        {
+            var consulta = (from u in pfe.Usuario
+                            where u.Username == userName 
+                            select u).First();
+
+            pfe.Usuario.Remove(consulta);
+            pfe.SaveChanges();
+        }
+
+        public static void ActualizarUsuario(string userName,string passWord)
+        {
+          
+            
         }
     }
 }

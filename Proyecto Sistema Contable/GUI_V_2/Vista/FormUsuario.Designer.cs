@@ -207,6 +207,7 @@
             this.btnEliminarUsuario.TabIndex = 59;
             this.btnEliminarUsuario.Text = "Eliminar";
             this.btnEliminarUsuario.UseVisualStyleBackColor = true;
+            this.btnEliminarUsuario.Click += new System.EventHandler(this.btnEliminarUsuario_Click);
             // 
             // FormUsuario
             // 

@@ -30,5 +30,10 @@ namespace GUI_V_2.Controlador
         {
             return MUsuario.ShowUsuarios();
         }
+
+        public static void EliminarUsuario(string userName)
+        {
+            MUsuario.EliminarUsuario(userName);
+        }
     }
 }
