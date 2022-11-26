@@ -27,22 +27,42 @@ namespace GUI_V_2.Vista
 
         private void btnGuardarUsuario_Click(object sender, EventArgs e)
         {
-            string username = this.txtNombreUsuario.Text;
-            string password = this.txtContrasena.Text;
-            int permiso = Convert.ToInt32(this.txtTipoPermiso.Text);
-            string roleuser = this.txtRolUsuario.Text;
-            int idPersona = Convert.ToInt32(this.txtIdEmpleado.Text);
 
-            CUsuario.SaveUsuario(idPersona, username, password, permiso, roleuser);
-            MessageBox.Show("Usuario creado correctamente ");
+            if (string.IsNullOrEmpty(txtNombreUsuario.Text) && string.IsNullOrEmpty(txtBusquedaUsuario.Text)
+                && string.IsNullOrEmpty(txtRolUsuario.Text) && string.IsNullOrEmpty(txtTipoPermiso.Text)
+                && string.IsNullOrEmpty(txtContrasena.Text) && string.IsNullOrEmpty(txtIdEmpleado.Text)
+                )
+            {
 
-            MostrarUsuarios();
+                MessageBox.Show("Por favor ingrese todos los datos en los campos");
+
+                return;
+
+            }
+            else {
+                string username = this.txtNombreUsuario.Text;
+                string password = this.txtContrasena.Text;
+                int permiso = Convert.ToInt32(this.txtTipoPermiso.Text);
+                string roleuser = this.txtRolUsuario.Text;
+                int idPersona = Convert.ToInt32(this.txtIdEmpleado.Text);
+
+                CUsuario.SaveUsuario(idPersona, username, password, permiso, roleuser);
+                MessageBox.Show("Usuario creado correctamente ");
+
+                MostrarUsuarios();
+            }
+            
+
         }
+
+        
+        
 
         private void FormUsuario_Load(object sender, EventArgs e)
         {
             MostrarUsuarios();
             HabilitarTextbox(true);
+            this.btnNuevoUsuario.Enabled = false;
         }
 
         public void LimpiarTextbox()
@@ -77,9 +97,9 @@ namespace GUI_V_2.Vista
             if (dato == "Nuevo")
             {
 
-                this.HabilitarTextbox(true);
+                this.HabilitarTextbox(false);
                 this.LimpiarTextbox();
-                this.btnNuevoUsuario.Enabled = true;
+                this.btnNuevoUsuario.Enabled = false;
                 this.btnGuardarUsuario.Enabled = true;
                 this.btnActualizarUsuario.Enabled = false;
                 this.btnEliminarUsuario.Enabled = false;

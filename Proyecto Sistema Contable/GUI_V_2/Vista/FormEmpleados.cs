@@ -43,6 +43,8 @@ namespace GUI_V_2.Vista
         {
             MostrarEmpleado();
             HabilitarTextbox(false);
+            this.btnGuardar.Enabled = false;
+            this.btnActualizar.Enabled = false;
 
         }
         public void LimpiarTextbox()
@@ -92,7 +94,7 @@ namespace GUI_V_2.Vista
                 this.HabilitarTextbox(true);
                 this.btnNuevo.Enabled = false;
                 this.btnGuardar.Enabled = true;
-                this.btnActualizar.Enabled = false;
+                this.btnActualizar.Enabled = true;
 
 
             }
@@ -103,7 +105,7 @@ namespace GUI_V_2.Vista
 
                 this.HabilitarTextbox(true);
                 this.btnNuevo.Enabled = false;
-                this.btnGuardar.Enabled = false;
+                this.btnGuardar.Enabled = true;
                 this.btnActualizar.Enabled = true;
 
 
