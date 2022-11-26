@@ -140,6 +140,7 @@
     <Compile Include="Modelo\Usuario.cs">
       <DependentUpon>ModelDB.tt</DependentUpon>
     </Compile>
+    <Compile Include="Modelo\UsuarioEmpleado.cs" />
     <Compile Include="Vista\Empresa.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -175,6 +176,12 @@
     </Compile>
     <Compile Include="Vista\FormProducto.Designer.cs">
       <DependentUpon>FormProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\FormUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\FormUsuario.Designer.cs">
+      <DependentUpon>FormUsuario.cs</DependentUpon>
     </Compile>
     <Compile Include="Vista\InicioResumen.cs">
       <SubType>Form</SubType>
@@ -214,6 +221,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\FormProducto.resx">
       <DependentUpon>FormProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\FormUsuario.resx">
+      <DependentUpon>FormUsuario.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\InicioResumen.resx">
       <DependentUpon>InicioResumen.cs</DependentUpon>

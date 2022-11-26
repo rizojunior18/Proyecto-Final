@@ -27,5 +27,29 @@ namespace GUI_V_2.Modelo
 
             
         }
+
+        public static void SaveUsuario(Usuario u)
+        {
+            pfe.Usuario.Add(u);
+
+            pfe.SaveChanges();
+
+        }
+
+        public static List<UsuarioEmpleado> ShowUsuarios()
+        {
+            var consulta = (from p in pfe.Persona
+                            join u in pfe.Usuario on p.IdPersona
+                            equals u.IdPersona
+                            select new UsuarioEmpleado
+                            {
+                                IdUsuario = u.IdUsuario,
+                                Username = u.Username,
+                                RoleUser = u.RoleUser,
+                                PrimerNombre = p.PrimerNombre,
+                                PrimerApellido = p.PrimerApellido
+                            });
+            return consulta.ToList();
+        }
     }
 }

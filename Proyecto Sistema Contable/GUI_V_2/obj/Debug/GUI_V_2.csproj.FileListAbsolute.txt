@@ -331,3 +331,5 @@ C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Pr
 C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.exe
 C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.pdb
 C:\Users\Usuario\Documents\Test visual studio 2022\LAST PROJECT SISTEMA NADSA\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Vista.FormEmpleados.resources
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Vista.FormEmpleados.resources
+C:\Users\rizoj\WorkSpace\Proyecto-Final\Proyecto Sistema Contable\GUI_V_2\obj\Debug\GUI_V_2.Vista.FormUsuario.resources

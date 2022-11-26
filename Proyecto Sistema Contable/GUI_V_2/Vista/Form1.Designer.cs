@@ -30,6 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.MenuVertical = new System.Windows.Forms.Panel();
+            this.btnEmpleadoForm1 = new System.Windows.Forms.Button();
             this.btnProducto = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
@@ -45,7 +46,7 @@
             this.iconcerrar = new System.Windows.Forms.PictureBox();
             this.btnMenu = new System.Windows.Forms.PictureBox();
             this.panelContenedor = new System.Windows.Forms.Panel();
-            this.btnEmpleadoForm1 = new System.Windows.Forms.Button();
+            this.btnUsuarios = new System.Windows.Forms.Button();
             this.MenuVertical.SuspendLayout();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -60,6 +61,7 @@
             // MenuVertical
             // 
             this.MenuVertical.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            this.MenuVertical.Controls.Add(this.btnUsuarios);
             this.MenuVertical.Controls.Add(this.btnEmpleadoForm1);
             this.MenuVertical.Controls.Add(this.btnProducto);
             this.MenuVertical.Controls.Add(this.panel1);
@@ -75,6 +77,24 @@
             this.MenuVertical.Size = new System.Drawing.Size(333, 800);
             this.MenuVertical.TabIndex = 0;
             this.MenuVertical.Paint += new System.Windows.Forms.PaintEventHandler(this.MenuVertical_Paint);
+            // 
+            // btnEmpleadoForm1
+            // 
+            this.btnEmpleadoForm1.FlatAppearance.BorderSize = 0;
+            this.btnEmpleadoForm1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnEmpleadoForm1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEmpleadoForm1.Font = new System.Drawing.Font("Century Gothic", 10.12727F);
+            this.btnEmpleadoForm1.ForeColor = System.Drawing.Color.White;
+            this.btnEmpleadoForm1.Image = ((System.Drawing.Image)(resources.GetObject("btnEmpleadoForm1.Image")));
+            this.btnEmpleadoForm1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnEmpleadoForm1.Location = new System.Drawing.Point(1, 452);
+            this.btnEmpleadoForm1.Margin = new System.Windows.Forms.Padding(4);
+            this.btnEmpleadoForm1.Name = "btnEmpleadoForm1";
+            this.btnEmpleadoForm1.Size = new System.Drawing.Size(333, 49);
+            this.btnEmpleadoForm1.TabIndex = 19;
+            this.btnEmpleadoForm1.Text = "Empleados";
+            this.btnEmpleadoForm1.UseVisualStyleBackColor = true;
+            this.btnEmpleadoForm1.Click += new System.EventHandler(this.btnEmpleadoForm1_Click);
             // 
             // btnProducto
             // 
@@ -299,23 +319,23 @@
             this.panelContenedor.Size = new System.Drawing.Size(1400, 745);
             this.panelContenedor.TabIndex = 2;
             // 
-            // btnEmpleadoForm1
+            // btnUsuarios
             // 
-            this.btnEmpleadoForm1.FlatAppearance.BorderSize = 0;
-            this.btnEmpleadoForm1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
-            this.btnEmpleadoForm1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnEmpleadoForm1.Font = new System.Drawing.Font("Century Gothic", 10.12727F);
-            this.btnEmpleadoForm1.ForeColor = System.Drawing.Color.White;
-            this.btnEmpleadoForm1.Image = ((System.Drawing.Image)(resources.GetObject("btnEmpleadoForm1.Image")));
-            this.btnEmpleadoForm1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnEmpleadoForm1.Location = new System.Drawing.Point(1, 452);
-            this.btnEmpleadoForm1.Margin = new System.Windows.Forms.Padding(4);
-            this.btnEmpleadoForm1.Name = "btnEmpleadoForm1";
-            this.btnEmpleadoForm1.Size = new System.Drawing.Size(333, 49);
-            this.btnEmpleadoForm1.TabIndex = 19;
-            this.btnEmpleadoForm1.Text = "Empleados";
-            this.btnEmpleadoForm1.UseVisualStyleBackColor = true;
-            this.btnEmpleadoForm1.Click += new System.EventHandler(this.btnEmpleadoForm1_Click);
+            this.btnUsuarios.FlatAppearance.BorderSize = 0;
+            this.btnUsuarios.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.btnUsuarios.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnUsuarios.Font = new System.Drawing.Font("Century Gothic", 10.12727F);
+            this.btnUsuarios.ForeColor = System.Drawing.Color.White;
+            this.btnUsuarios.Image = ((System.Drawing.Image)(resources.GetObject("btnUsuarios.Image")));
+            this.btnUsuarios.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnUsuarios.Location = new System.Drawing.Point(0, 498);
+            this.btnUsuarios.Margin = new System.Windows.Forms.Padding(4);
+            this.btnUsuarios.Name = "btnUsuarios";
+            this.btnUsuarios.Size = new System.Drawing.Size(333, 49);
+            this.btnUsuarios.TabIndex = 20;
+            this.btnUsuarios.Text = "Usuarios";
+            this.btnUsuarios.UseVisualStyleBackColor = true;
+            this.btnUsuarios.Click += new System.EventHandler(this.btnUsuarios_Click);
             // 
             // Form1
             // 
@@ -365,6 +385,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnProducto;
         private System.Windows.Forms.Button btnEmpleadoForm1;
+        private System.Windows.Forms.Button btnUsuarios;
     }
 }
 
